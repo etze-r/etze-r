@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "login": "etze-r",
+  "seed": "#9F6FB2",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "it's",
+    "name": "etzer",
+    "subtitle": "i write shit code and act surprised when it breaks",
+    "typing": false,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "amphoreous"
+      },
+      {
+        "icon": "code",
+        "label": "Rust · C++ · Claude · Codex"
+      }
+    ]
+  },
+  "about": {
+    "title": "about me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "prompt engineer"
+      },
+      {
+        "icon": "code",
+        "label": "low level dev"
+      },
+      {
+        "icon": "brand:postgresql",
+        "label": "professional skid"
+      }
+    ]
+  },
+  "stack": {
+    "title": "tech stack",
+    "groups": [
+      {
+        "title": "langs",
+        "items": [
+          {
+            "icon": "brand:rust",
+            "label": "rust"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:c",
+            "label": "C"
+          },
+          {
+            "icon": "brand:python",
+            "label": "python"
+          }
+        ]
+      },
+      {
+        "title": "tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "git"
+          },
+          {
+            "icon": "terminal",
+            "label": "ida pro"
+          },
+          {
+            "icon": "local_fire_department",
+            "label": "dumpster fire"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {
+      "pixel-garden": {
+        "icon": "terminal"
+      },
+      "dotfiles": {
+        "text": ""
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "activity",
+    "stars": "stars",
+    "contributions": "contributions this year",
+    "repos": "public repos",
+    "followers": "followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [],
+    "variant": "chip",
+    "fill": "brand",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "my bio",
+        "url": "https://13th.lol/etzzer",
+        "style": "filled"
+      }
+    ],
+    "card": false
+  }
+}
