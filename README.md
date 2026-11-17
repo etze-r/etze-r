@@ -12,7 +12,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-<a href="https://13th.lol/etzzer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="my bio"></picture></a>
+<a href="https://13th.lol/etzer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="my bio"></picture></a>
 
 <a href="https://metawka.github.io/expressive-profile/?from=etze-r"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
